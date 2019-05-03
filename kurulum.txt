@@ -1,0 +1,6 @@
+Kurulum Basamakları
+
+--Wordpress başlangıç panelinize erişip, menüden `Eklentiler` >> `Yeni ekle`yolunu takip edin.
+--Karşınıza gelen sayfadan `Eklenti yükle` düğmesini tıklayın. Açılan kısımda gönderdiğim *ZIP* dosyasını seçip, `Hemen yükle` düğmesine tıklamamız gerekiyor.
+--Bu aşamadan sonra eklentimiz yüklenmiş olacak, fakat **eklentiyi etkinleştirmemiz gerekiyor**. İster buradan, isterseniz
+yüklü eklentiler sayfasından eklentiyi etkinleştirebilirsiniz.

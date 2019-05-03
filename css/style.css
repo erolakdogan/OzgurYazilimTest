@@ -1,0 +1,25 @@
+.ozguryazilim-container {
+	display: block;
+	padding: 1em 0;
+}
+
+.ozguryazilim-container span {
+	cursor: hand;
+}
+
+.ozguryazilim-container span:before {
+	content: attr(data-text);
+}
+
+.ozguryazilim-container span:hover {
+	color: black;
+}
+
+.ozguryazilim-container .ozguryazilim-up {
+	color: white;
+	padding: 0.5em;
+}
+
+.ozguryazilim-container .ozguryazilim-up {
+	background: #c7e1ff;
+}
